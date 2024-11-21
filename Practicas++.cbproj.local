@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/11/21 09:54:32.000.028,=C:\Users\Win_10r\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/11/21 09:54:32.000.903,=C:\Users\Win_10r\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/11/21 12:59:32.000.625,C:\Users\Win_10r\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Win_10r\Documents\Embarcadero\Practicas home\Practica.cpp</Transaction>
+    <Transaction>2024/11/21 12:59:32.000.625,C:\Users\Win_10r\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Win_10r\Documents\Embarcadero\Practicas home\Practica.h</Transaction>
+    <Transaction>2024/11/21 12:59:32.000.625,C:\Users\Win_10r\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Win_10r\Documents\Embarcadero\Practicas home\Practica.dfm</Transaction>
+    <Transaction>2024/11/21 12:59:42.000.164,C:\Users\Win_10r\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Win_10r\Documents\Embarcadero\Practicas home\Practicas.h</Transaction>
+    <Transaction>2024/11/21 13:00:03.000.912,C:\Users\Win_10r\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Win_10r\Documents\Embarcadero\Practicas home\Practicas++.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
