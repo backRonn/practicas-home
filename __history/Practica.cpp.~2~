@@ -15,7 +15,7 @@ __fastcall TForm1::TForm1(TComponent* Owner)
 }
 //---------------------------------------------------------------------------
 /*
-Funcion que determina la suma de digitos JAJAJA POR FIN...!!!
+Funcion que determina la suma de digitos
 */
 byte Sum_Dig(Cardinal x)
 {
